@@ -1,4 +1,4 @@
-#Konfiguraso Nginx untuk GCP
+#Konfigurasi Nginx untuk GCP
 
 Repositori ini berisi file konfigurasi Nginx dasar untuk deployment di
 VM GCP
